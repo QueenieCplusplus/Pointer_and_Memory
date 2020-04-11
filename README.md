@@ -26,7 +26,13 @@ using C
 
     x var is locate on address: 0x7ffee321a988 
     y var is locate on address: 0x7ffee321a984 
-    z var is locate on address: 0x7ffee321a980 
+    z var is locate on address: 0x7ffee321a980
+    
+
+64 位元的編譯器
+輸出結果中，每一個變數的位址皆有 14 個數字，每一數字有 16 個位元 bits，共計 225 bits。
+
+32 位元的編譯器
 
 輸出結果中，每一個變數的位址皆有 8 個數字，每一數字有 4 個位元 bits，共計 32 bits。
 
