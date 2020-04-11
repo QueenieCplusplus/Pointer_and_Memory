@@ -7,6 +7,8 @@ using C
 
 * & 為位址運算子。
 
+此運算式 expression 的表達目的是呈現變數的記憶體位址 address in memory。
+
     #include <stdio.h>
 
     int main(){
